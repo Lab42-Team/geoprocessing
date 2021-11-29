@@ -1,0 +1,10 @@
+of filter=lfs diff=lfs merge=lfs -text
+distances filter=lfs diff=lfs merge=lfs -text
+from filter=lfs diff=lfs merge=lfs -text
+fires filter=lfs diff=lfs merge=lfs -text
+to filter=lfs diff=lfs merge=lfs -text
+settlements/data/distance.csv filter=lfs diff=lfs merge=lfs -text
+calculation filter=lfs diff=lfs merge=lfs -text
+settlements/data/fires_links.csv filter=lfs diff=lfs merge=lfs -text
+calculation[[:space:]]of[[:space:]]distances[[:space:]]from[[:space:]]fires[[:space:]]to[[:space:]]settlements/data/fires_links.csv filter=lfs diff=lfs merge=lfs -text
+calculation[[:space:]]of[[:space:]]distances[[:space:]]from[[:space:]]fires[[:space:]]to[[:space:]]settlements/data/distance.csv filter=lfs diff=lfs merge=lfs -text
