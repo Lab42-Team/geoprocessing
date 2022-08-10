@@ -1,6 +1,6 @@
 # Рассчет расстояний от пожаров до населенных пунктов и определение пожаров на территории населенных пунктов.
 
-<img src="https://github.com/Lab42-Team/geoanalytics/blob/master/calculation of distances from fires to settlements/data/Кратчайшие расстояния от пожаров до населенных пунктов_v1.png?raw=true" width=800 class="center">
+<img src="https://github.com/Lab42-Team/geoprocessing/blob/master/calculation of distances from fires to settlements/data/Кратчайшие расстояния от пожаров до населенных пунктов_v1.png?raw=true" width=800 class="center">
 
 Добавлены поля для датасета записей пожаров в файл: `fires.csv`.
 
